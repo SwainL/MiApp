@@ -1,0 +1,9 @@
+{
+  "name": "mi-app",
+  "version": "0.0.0",
+  "description": "MiApp",
+  "main": "server.js",
+  "author": {
+    "name": "Swain.L"
+  }
+}
